@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Learn U | Sign Up</title>
+		<link href="stylesheets/style.css" rel="stylesheet" type="text/css">
+		<link href="stylesheets/login.css" rel="stylesheet" type="text/css">
+		<script>
+			function checkPassword() {
+				p1 = document.loginform.password1.value;
+				p2 = document.loginform.password2.value;
+
+				if (p1 == "" || p2 == "") {
+					alert("Please fill in both password fields.");
+					return false;
+				}
+				else {
+					if (p1 != p2) {
+						alert("Passwords do not match");
+						return false;
+					}
+					else {
+						return true;
+					}
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<header>
+			<nav>
+				<a href="index.html"><img id="logo" src="images/logo.png"></a>
+
+				<div id="navLeft">
+					<a class="nav-link" href="index.html">Home</a>
+					<a class="nav-link" href="browse.html">Browse</a>
+				</div>
+				
+				<div id="search-bar-container">
+					<form id="search-bar" action="#">
+						<input id="search-bar-input" type="text" placeholder="search">
+						<button type="submit">Submit</button>
+					</form>
+				</div>
+
+				<div id="navRight">
+					<a class="nav-link" href="login.html">Login</a>
+					<a class="nav-link" href="signup.html">Sign Up</a>
+					<a class="nav-link" href="shoppingCart.html"><img id="shopping-cart-img" src="images/shoppingCart.png"></a>
+				</div>
+			</nav>
+		</header>
+
+		<main>
+			<form id="loginform" name="loginform" action="signup.php" method="post" onsubmit="return checkPassword()">
+				<h1>Sign Up</h1>
+
+				<section>
+					<div class="username-password">
+						<div class="left">
+							<p> E-mail: </p>
+						</div>
+
+						<div class="right">
+							<p>
+								<label for="email">
+									<input type="email" id="email" name="email" required>
+								</label>
+							</p>
+						</div>
+					</div>
+
+					<div class="username-password">
+						<div class="left">
+							<p> Password: </p>
+						</div>
+
+						<div class="right">
+							<p>
+								<label for="password">
+									<input type="password" name="password1" required>
+								</label>
+							</p>
+						</div>
+					</div>
+
+					<div class="username-password">
+						<div class="left">
+							<p> Re-enter Password: </p>
+						</div>
+
+						<div class="right">
+							<p>
+								<label for="confirmPassword">
+									<input type="password" name="password2" required>
+								</label>
+							</p>
+						</div>
+					</div>
+				</section>
+				
+				<section>
+					<button type="submit">Sign Up</button>
+					<p>Already have an account? <a href="login.html">Log in</a></p>
+				</section>
+			</form>
+		</main>
+	</body>
+</html>

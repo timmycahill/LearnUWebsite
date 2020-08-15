@@ -1,0 +1,33 @@
+h1 {
+    margin-bottom: 20px;
+}
+.username-password{
+	display: flex;
+	justify-content: center;
+}
+
+.left {
+	width: 50%;
+	text-align: right;
+	padding: 5px;
+}
+.right {
+	width: 50%;
+	text-align: left;
+	padding: 5px;
+}
+
+main button {
+    margin: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.errorMessage {
+	color: red;
+}
+
+input {
+	box-sizing: border-box;
+	line-height: 1.5em;
+  }

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Learn U | Log In</title>
+		<link href="stylesheets/style.css" rel="stylesheet" type="text/css">
+		<link href="stylesheets/login.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<header>
+			<nav>
+				<a href="index.html"><img id="logo" src="images/logo.png"></a>
+
+				<div id="navLeft">
+					<a class="nav-link" href="index.html">Home</a>
+					<a class="nav-link" href="browse.html">Browse</a>
+				</div>
+				
+				<div id="search-bar-container">
+					<form id="search-bar" action="#">
+						<input id="search-bar-input" type="text" placeholder="search">
+						<button type="submit">Submit</button>
+					</form>
+				</div>
+
+				<div id="navRight">
+					<a class="nav-link" href="login.html">Login</a>
+					<a class="nav-link" href="signup.html">Sign Up</a>
+					<a class="nav-link" href="shoppingCart.html"><img id="shopping-cart-img" src="images/shoppingCart.png"></a>
+				</div>
+			</nav>
+		</header>
+
+		<main>
+			<form id="loginform" name="loginform" action="login.php" method="post">
+				<h1>Log In</h1>
+
+				<section>
+					<div class="username-password">
+						<div class="left">
+							<p> E-mail: </p>
+						</div>
+
+						<div class="right">
+							<p>
+								<label for="email" id="email-label">
+									<input type="email" name="email" required>
+								</label>
+							</p>
+						</div>
+					</div>
+
+					<div class="username-password">
+						<div class="left">
+							<p> Password: </p>
+						</div>
+
+						<div class="right">
+							<p>
+								<label for="password" id="password-label">
+									<input type="password" name="password" required>
+								</label>
+							</p>
+						</div>
+					</div>
+				</section>
+				
+				<section>
+					<button type="submit">Log In</button>
+					<p>Don't have an account? <a href="signup.html">Sign up</a></p>
+					<p><a href="forgotPassword.html">Forgot password?</a></p>
+				</section>
+			</form>
+		</main>
+	</body>
+</html>

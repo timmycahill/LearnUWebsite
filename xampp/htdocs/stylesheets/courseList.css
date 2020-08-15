@@ -1,0 +1,22 @@
+#sections {
+    margin: 10px;
+}
+
+#sections img {
+    width: 100px;
+    height: 100px;
+}
+
+section {
+    display: flex;
+    margin: 10px;
+    justify-content: left;    
+    padding: 5px;
+    border-radius: 5px;
+    text-align: left;
+    background-color: antiquewhite;
+}
+
+section a {
+    margin: 0 20px 0 0;
+}

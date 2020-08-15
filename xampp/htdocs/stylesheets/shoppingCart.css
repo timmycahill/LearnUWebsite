@@ -1,0 +1,14 @@
+.item {
+    display: flex;
+    justify-content: center;
+}
+.left {
+	width: 50%;
+	text-align: right;
+	padding: 0 5px;
+}
+.right {
+	width: 50%;
+	text-align: left;
+	padding: 0 5px;
+}

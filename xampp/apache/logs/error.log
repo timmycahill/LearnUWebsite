@@ -1,0 +1,401 @@
+[Thu Apr 16 16:18:01 2020] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 16 16:18:01 2020] [notice] Digest: done
+[Thu Apr 16 16:18:09 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Thu Apr 16 16:18:09 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Apr 16 16:18:09 2020] [notice] Parent: Created child process 12792
+[Thu Apr 16 16:18:09 2020] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 16 16:18:09 2020] [notice] Digest: done
+[Thu Apr 16 16:18:10 2020] [notice] Child 12792: Child process is running
+[Thu Apr 16 16:18:10 2020] [notice] Child 12792: Acquired the start mutex.
+[Thu Apr 16 16:18:10 2020] [notice] Child 12792: Starting 150 worker threads.
+[Thu Apr 16 16:18:10 2020] [notice] Child 12792: Starting thread to listen on port 443.
+[Thu Apr 16 16:18:10 2020] [notice] Child 12792: Starting thread to listen on port 443.
+[Thu Apr 16 16:18:10 2020] [notice] Child 12792: Starting thread to listen on port 80.
+[Thu Apr 16 16:18:10 2020] [notice] Child 12792: Starting thread to listen on port 80.
+[Thu Apr 16 16:22:03 2020] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 16 16:22:03 2020] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 16 16:22:03 2020] [notice] Digest: done
+[Thu Apr 16 16:22:04 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Thu Apr 16 16:22:04 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Apr 16 16:22:04 2020] [notice] Parent: Created child process 11268
+[Thu Apr 16 16:22:04 2020] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 16 16:22:04 2020] [notice] Digest: done
+[Thu Apr 16 16:22:05 2020] [notice] Child 11268: Child process is running
+[Thu Apr 16 16:22:05 2020] [notice] Child 11268: Acquired the start mutex.
+[Thu Apr 16 16:22:05 2020] [notice] Child 11268: Starting 150 worker threads.
+[Thu Apr 16 16:22:05 2020] [notice] Child 11268: Starting thread to listen on port 443.
+[Thu Apr 16 16:22:05 2020] [notice] Child 11268: Starting thread to listen on port 443.
+[Thu Apr 16 16:22:05 2020] [notice] Child 11268: Starting thread to listen on port 80.
+[Thu Apr 16 16:22:05 2020] [notice] Child 11268: Starting thread to listen on port 80.
+[Thu Apr 16 16:42:42 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/signup.html
+[Thu Apr 16 16:43:38 2020] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 16 16:43:38 2020] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 16 16:43:38 2020] [notice] Digest: done
+[Thu Apr 16 16:43:38 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Thu Apr 16 16:43:38 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Apr 16 16:43:38 2020] [notice] Parent: Created child process 9208
+[Thu Apr 16 16:43:39 2020] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 16 16:43:39 2020] [notice] Digest: done
+[Thu Apr 16 16:43:39 2020] [notice] Child 9208: Child process is running
+[Thu Apr 16 16:43:39 2020] [notice] Child 9208: Acquired the start mutex.
+[Thu Apr 16 16:43:39 2020] [notice] Child 9208: Starting 150 worker threads.
+[Thu Apr 16 16:43:39 2020] [notice] Child 9208: Starting thread to listen on port 443.
+[Thu Apr 16 16:43:39 2020] [notice] Child 9208: Starting thread to listen on port 443.
+[Thu Apr 16 16:43:39 2020] [notice] Child 9208: Starting thread to listen on port 80.
+[Thu Apr 16 16:43:39 2020] [notice] Child 9208: Starting thread to listen on port 80.
+[Thu Apr 16 16:43:51 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.html
+[Thu Apr 16 17:00:08 2020] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 16 17:00:08 2020] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 16 17:00:08 2020] [notice] Digest: done
+[Thu Apr 16 17:00:08 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Thu Apr 16 17:00:08 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Apr 16 17:00:08 2020] [notice] Parent: Created child process 7944
+[Thu Apr 16 17:00:09 2020] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 16 17:00:09 2020] [notice] Digest: done
+[Thu Apr 16 17:00:10 2020] [notice] Child 7944: Child process is running
+[Thu Apr 16 17:00:10 2020] [notice] Child 7944: Acquired the start mutex.
+[Thu Apr 16 17:00:10 2020] [notice] Child 7944: Starting 150 worker threads.
+[Thu Apr 16 17:00:10 2020] [notice] Child 7944: Starting thread to listen on port 443.
+[Thu Apr 16 17:00:10 2020] [notice] Child 7944: Starting thread to listen on port 443.
+[Thu Apr 16 17:00:10 2020] [notice] Child 7944: Starting thread to listen on port 80.
+[Thu Apr 16 17:00:10 2020] [notice] Child 7944: Starting thread to listen on port 80.
+[Sat Apr 18 01:41:28 2020] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 18 01:41:28 2020] [notice] Digest: generating secret for digest authentication ...
+[Sat Apr 18 01:41:28 2020] [notice] Digest: done
+[Sat Apr 18 01:41:34 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Apr 18 01:41:34 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Apr 18 01:41:34 2020] [notice] Parent: Created child process 2920
+[Sat Apr 18 01:41:34 2020] [notice] Digest: generating secret for digest authentication ...
+[Sat Apr 18 01:41:34 2020] [notice] Digest: done
+[Sat Apr 18 01:41:35 2020] [notice] Child 2920: Child process is running
+[Sat Apr 18 01:41:35 2020] [notice] Child 2920: Acquired the start mutex.
+[Sat Apr 18 01:41:35 2020] [notice] Child 2920: Starting 150 worker threads.
+[Sat Apr 18 01:41:35 2020] [notice] Child 2920: Starting thread to listen on port 443.
+[Sat Apr 18 01:41:35 2020] [notice] Child 2920: Starting thread to listen on port 443.
+[Sat Apr 18 01:41:35 2020] [notice] Child 2920: Starting thread to listen on port 80.
+[Sat Apr 18 01:41:35 2020] [notice] Child 2920: Starting thread to listen on port 80.
+[Sat Apr 18 01:41:39 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/
+[Sun Apr 19 02:04:32 2020] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 19 02:04:32 2020] [notice] Digest: generating secret for digest authentication ...
+[Sun Apr 19 02:04:32 2020] [notice] Digest: done
+[Sun Apr 19 02:04:40 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sun Apr 19 02:04:40 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Apr 19 02:04:40 2020] [notice] Parent: Created child process 11292
+[Sun Apr 19 02:04:41 2020] [notice] Digest: generating secret for digest authentication ...
+[Sun Apr 19 02:04:41 2020] [notice] Digest: done
+[Sun Apr 19 02:04:41 2020] [notice] Child 11292: Child process is running
+[Sun Apr 19 02:04:41 2020] [notice] Child 11292: Acquired the start mutex.
+[Sun Apr 19 02:04:41 2020] [notice] Child 11292: Starting 150 worker threads.
+[Sun Apr 19 02:04:41 2020] [notice] Child 11292: Starting thread to listen on port 443.
+[Sun Apr 19 02:04:41 2020] [notice] Child 11292: Starting thread to listen on port 443.
+[Sun Apr 19 02:04:41 2020] [notice] Child 11292: Starting thread to listen on port 80.
+[Sun Apr 19 02:04:41 2020] [notice] Child 11292: Starting thread to listen on port 80.
+[Sun Apr 19 02:04:41 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/
+[Sun Apr 19 02:04:45 2020] [error] [client ::1] script 'C:/xampp/htdocs/signup.php' not found or unable to stat, referer: http://localhost/
+[Sun Apr 19 06:20:18 2020] [error] [client ::1] script 'C:/xampp/htdocs/scripts/logout_script.php' not found or unable to stat, referer: http://localhost/index.php?login=success
+[Mon Apr 20 03:31:21 2020] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 20 03:31:21 2020] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 20 03:31:21 2020] [notice] Digest: done
+[Mon Apr 20 03:31:29 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Mon Apr 20 03:31:29 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 20 03:31:29 2020] [notice] Parent: Created child process 8024
+[Mon Apr 20 03:31:29 2020] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 20 03:31:29 2020] [notice] Digest: done
+[Mon Apr 20 03:31:30 2020] [notice] Child 8024: Child process is running
+[Mon Apr 20 03:31:30 2020] [notice] Child 8024: Acquired the start mutex.
+[Mon Apr 20 03:31:30 2020] [notice] Child 8024: Starting 150 worker threads.
+[Mon Apr 20 03:31:30 2020] [notice] Child 8024: Starting thread to listen on port 443.
+[Mon Apr 20 03:31:30 2020] [notice] Child 8024: Starting thread to listen on port 443.
+[Mon Apr 20 03:31:30 2020] [notice] Child 8024: Starting thread to listen on port 80.
+[Mon Apr 20 03:31:30 2020] [notice] Child 8024: Starting thread to listen on port 80.
+[Mon Apr 20 03:31:30 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/
+[Mon Apr 20 05:45:42 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToCss.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:45:42 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/cssPositioning.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:45:56 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:45:56 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/understandingWeirdParts.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:45:56 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/modernJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:46:06 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/cssPositioning.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:46:06 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToCss.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:46:15 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToCss.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:46:15 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/cssPositioning.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:46:17 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:46:17 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/understandingWeirdParts.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:46:17 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/modernJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:46:33 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToCss.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:46:33 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/cssPositioning.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:46:36 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:46:36 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/understandingWeirdParts.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:46:36 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/modernJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:47:32 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToCss.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:47:32 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/cssPositioning.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:47:35 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:47:35 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/understandingWeirdParts.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:47:35 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/modernJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:47:39 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToCss.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:47:39 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/cssPositioning.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:47:43 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToCss.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:47:43 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/cssPositioning.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:47:45 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/understandingWeirdParts.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:47:45 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:47:45 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/modernJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:48:01 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToCss.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:48:01 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/cssPositioning.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:48:03 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/understandingWeirdParts.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:48:03 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:48:03 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/modernJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:49:07 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/understandingWeirdParts.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:49:07 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:49:07 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/modernJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:49:09 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/cssPositioning.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:49:09 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToCss.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:49:16 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToCss.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:49:16 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/cssPositioning.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:49:24 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:49:24 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/understandingWeirdParts.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:49:24 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/modernJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:49:39 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/cssPositioning.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:49:39 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToCss.png, referer: http://localhost/courseList.php?lang=css
+[Mon Apr 20 05:49:44 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/introToJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:49:44 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/understandingWeirdParts.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 05:49:44 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/images/courseThumbnails/modernJavascript.png, referer: http://localhost/courseList.php?lang=javascript
+[Mon Apr 20 06:42:18 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/function.mysqli-stmt-prepare, referer: http://localhost/courseOverview.php?courseId=1
+[Mon Apr 20 20:05:32 2020] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 20 20:05:32 2020] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 20 20:05:32 2020] [notice] Digest: done
+[Mon Apr 20 20:05:39 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Mon Apr 20 20:05:39 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 20 20:05:39 2020] [notice] Parent: Created child process 10308
+[Mon Apr 20 20:05:39 2020] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 20 20:05:39 2020] [notice] Digest: done
+[Mon Apr 20 20:05:40 2020] [notice] Child 10308: Child process is running
+[Mon Apr 20 20:05:40 2020] [notice] Child 10308: Acquired the start mutex.
+[Mon Apr 20 20:05:40 2020] [notice] Child 10308: Starting 150 worker threads.
+[Mon Apr 20 20:05:40 2020] [notice] Child 10308: Starting thread to listen on port 443.
+[Mon Apr 20 20:05:40 2020] [notice] Child 10308: Starting thread to listen on port 443.
+[Mon Apr 20 20:05:40 2020] [notice] Child 10308: Starting thread to listen on port 80.
+[Mon Apr 20 20:05:40 2020] [notice] Child 10308: Starting thread to listen on port 80.
+[Mon Apr 20 20:05:49 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/
+[Wed Apr 22 22:49:32 2020] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 22 22:49:32 2020] [notice] Digest: generating secret for digest authentication ...
+[Wed Apr 22 22:49:32 2020] [notice] Digest: done
+[Wed Apr 22 22:49:38 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Wed Apr 22 22:49:38 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Wed Apr 22 22:49:38 2020] [notice] Parent: Created child process 13028
+[Wed Apr 22 22:49:39 2020] [notice] Digest: generating secret for digest authentication ...
+[Wed Apr 22 22:49:39 2020] [notice] Digest: done
+[Wed Apr 22 22:49:39 2020] [notice] Child 13028: Child process is running
+[Wed Apr 22 22:49:39 2020] [notice] Child 13028: Acquired the start mutex.
+[Wed Apr 22 22:49:39 2020] [notice] Child 13028: Starting 150 worker threads.
+[Wed Apr 22 22:49:39 2020] [notice] Child 13028: Starting thread to listen on port 443.
+[Wed Apr 22 22:49:39 2020] [notice] Child 13028: Starting thread to listen on port 443.
+[Wed Apr 22 22:49:39 2020] [notice] Child 13028: Starting thread to listen on port 80.
+[Wed Apr 22 22:49:39 2020] [notice] Child 13028: Starting thread to listen on port 80.
+[Wed Apr 22 22:49:50 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/
+[Wed Apr 22 22:52:06 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/myphpadmin
+[Thu Apr 23 00:49:33 2020] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /%3C?php%20echo%20$thumbnail;?%3E HTTP/1.1 to file, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 01:03:39 2020] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /%3C?php%20echo%20$thumbnail;?%3E HTTP/1.1 to file, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 01:03:51 2020] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /%3C?php%20echo%20$thumbnail;?%3E HTTP/1.1 to file, referer: http://localhost/lesson.php?videoId=2
+[Thu Apr 23 01:03:54 2020] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /%3C?php%20echo%20$thumbnail;?%3E HTTP/1.1 to file, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 01:03:57 2020] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /%3C?php%20echo%20$thumbnail;?%3E HTTP/1.1 to file, referer: http://localhost/lesson.php?videoId=4
+[Thu Apr 23 01:04:00 2020] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /%3C?php%20echo%20$thumbnail;?%3E HTTP/1.1 to file, referer: http://localhost/lesson.php?videoId=6
+[Thu Apr 23 01:04:06 2020] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /%3C?php%20echo%20$thumbnail;?%3E HTTP/1.1 to file, referer: http://localhost/lesson.php?videoId=8
+[Thu Apr 23 01:04:11 2020] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /%3C?php%20echo%20$thumbnail;?%3E HTTP/1.1 to file, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 01:04:35 2020] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /%3C?php%20echo%20$thumbnail;?%3E HTTP/1.1 to file, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 01:34:48 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 01:35:52 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 01:35:57 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2
+[Thu Apr 23 01:43:02 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 01:43:16 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2
+[Thu Apr 23 01:43:47 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 01:44:17 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 01:44:26 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2
+[Thu Apr 23 01:47:15 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 01:52:19 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2
+[Thu Apr 23 01:53:34 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 01:59:27 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=4
+[Thu Apr 23 01:59:28 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=7
+[Thu Apr 23 01:59:29 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=8
+[Thu Apr 23 02:17:02 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/
+[Thu Apr 23 02:20:13 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 02:20:48 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 02:21:08 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 02:24:53 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 02:40:05 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 02:41:03 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 02:41:06 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2
+[Thu Apr 23 02:41:13 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=3
+[Thu Apr 23 02:41:15 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=4
+[Thu Apr 23 02:41:18 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=5
+[Thu Apr 23 02:41:20 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=6
+[Thu Apr 23 02:42:34 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 02:51:12 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9
+[Thu Apr 23 02:51:18 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=10
+[Thu Apr 23 02:51:22 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=10
+[Thu Apr 23 02:51:24 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=10
+[Thu Apr 23 02:51:28 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 02:51:33 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2
+[Thu Apr 23 02:51:36 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=3
+[Thu Apr 23 02:52:17 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 02:52:19 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=3
+[Thu Apr 23 02:52:24 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=6
+[Thu Apr 23 02:52:25 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=7
+[Thu Apr 23 02:52:26 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=8
+[Thu Apr 23 02:52:33 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9
+[Thu Apr 23 02:53:07 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9
+[Thu Apr 23 02:55:05 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2
+[Thu Apr 23 04:06:36 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/removeFromCart, referer: http://localhost/shoppingCart.php
+[Thu Apr 23 04:07:18 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/script, referer: http://localhost/shoppingCart.php
+[Thu Apr 23 04:07:39 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/script, referer: http://localhost/shoppingCart.php
+[Thu Apr 23 04:09:33 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 04:14:21 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 04:27:57 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2
+[Thu Apr 23 04:35:16 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/
+[Thu Apr 23 04:39:23 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1
+[Thu Apr 23 05:13:50 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3
+[Thu Apr 23 05:17:00 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3
+[Thu Apr 23 05:17:33 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Thu Apr 23 05:18:11 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Thu Apr 23 05:18:35 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 11:16:09 2020] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 24 11:16:09 2020] [notice] Digest: generating secret for digest authentication ...
+[Fri Apr 24 11:16:09 2020] [notice] Digest: done
+[Fri Apr 24 11:16:15 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Fri Apr 24 11:16:15 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Fri Apr 24 11:16:15 2020] [notice] Parent: Created child process 7292
+[Fri Apr 24 11:16:15 2020] [notice] Digest: generating secret for digest authentication ...
+[Fri Apr 24 11:16:15 2020] [notice] Digest: done
+[Fri Apr 24 11:16:16 2020] [notice] Child 7292: Child process is running
+[Fri Apr 24 11:16:16 2020] [notice] Child 7292: Acquired the start mutex.
+[Fri Apr 24 11:16:16 2020] [notice] Child 7292: Starting 150 worker threads.
+[Fri Apr 24 11:16:16 2020] [notice] Child 7292: Starting thread to listen on port 443.
+[Fri Apr 24 11:16:16 2020] [notice] Child 7292: Starting thread to listen on port 443.
+[Fri Apr 24 11:16:16 2020] [notice] Child 7292: Starting thread to listen on port 80.
+[Fri Apr 24 11:16:16 2020] [notice] Child 7292: Starting thread to listen on port 80.
+[Fri Apr 24 17:33:49 2020] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 24 17:33:49 2020] [notice] Digest: generating secret for digest authentication ...
+[Fri Apr 24 17:33:49 2020] [notice] Digest: done
+[Fri Apr 24 17:33:55 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Fri Apr 24 17:33:55 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Fri Apr 24 17:33:55 2020] [notice] Parent: Created child process 1416
+[Fri Apr 24 17:33:55 2020] [notice] Digest: generating secret for digest authentication ...
+[Fri Apr 24 17:33:55 2020] [notice] Digest: done
+[Fri Apr 24 17:33:56 2020] [notice] Child 1416: Child process is running
+[Fri Apr 24 17:33:56 2020] [notice] Child 1416: Acquired the start mutex.
+[Fri Apr 24 17:33:56 2020] [notice] Child 1416: Starting 150 worker threads.
+[Fri Apr 24 17:33:56 2020] [notice] Child 1416: Starting thread to listen on port 443.
+[Fri Apr 24 17:33:56 2020] [notice] Child 1416: Starting thread to listen on port 443.
+[Fri Apr 24 17:33:56 2020] [notice] Child 1416: Starting thread to listen on port 80.
+[Fri Apr 24 17:33:56 2020] [notice] Child 1416: Starting thread to listen on port 80.
+[Fri Apr 24 17:34:26 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/
+[Fri Apr 24 17:40:20 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 17:45:26 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 17:46:14 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 17:46:44 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 17:46:46 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2
+[Fri Apr 24 17:46:47 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=3
+[Fri Apr 24 17:48:32 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2
+[Fri Apr 24 17:48:35 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2&courseId=1&free=1
+[Fri Apr 24 17:48:37 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=4&courseId=1&free=1
+[Fri Apr 24 17:48:39 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=5&courseId=1&free=1
+[Fri Apr 24 17:48:39 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=6&courseId=1&free=1
+[Fri Apr 24 17:48:40 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=7&courseId=1&free=1
+[Fri Apr 24 17:48:41 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=8&courseId=1&free=1
+[Fri Apr 24 18:51:17 2020] [error] [client ::1] script 'C:/xampp/htdocs/checkout.php' not found or unable to stat, referer: http://localhost/shoppingCart.php
+[Fri Apr 24 18:56:13 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 18:56:23 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 18:56:26 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=10&courseId=3&free=
+[Fri Apr 24 18:56:29 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 18:59:08 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 19:01:38 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=10&courseId=3&free=
+[Fri Apr 24 19:01:41 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 19:01:59 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 19:02:47 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 19:03:13 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 19:03:30 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=5&courseId=1&free=1
+[Fri Apr 24 19:03:34 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=8&courseId=1&free=1
+[Fri Apr 24 19:03:57 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 19:04:02 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=10&courseId=3&free=
+[Fri Apr 24 19:04:15 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 19:05:14 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 19:07:25 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=10&courseId=3&free=
+[Fri Apr 24 19:07:27 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 19:07:32 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=8&courseId=1&free=1
+[Fri Apr 24 19:07:46 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=3&courseId=1&free=1
+[Fri Apr 24 19:07:50 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 19:23:57 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=11&courseId=10&free=
+[Fri Apr 24 19:24:05 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 19:24:27 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=11&courseId=10&free=
+[Fri Apr 24 19:24:58 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 19:25:37 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 19:25:38 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2&courseId=1&free=1
+[Fri Apr 24 19:25:47 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 19:25:51 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=10&courseId=3&free=
+[Fri Apr 24 19:25:53 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 19:26:01 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=11&courseId=10&free=
+[Fri Apr 24 19:27:14 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=11&courseId=10&free=
+[Fri Apr 24 19:27:17 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=11&courseId=10&free=
+[Fri Apr 24 19:27:39 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 19:30:30 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=11&courseId=10&free=
+[Fri Apr 24 19:30:40 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 19:30:44 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=10&courseId=3&free=
+[Fri Apr 24 19:30:47 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Fri Apr 24 19:38:14 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=11&courseId=10&free=
+[Fri Apr 24 19:44:08 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=11&courseId=10&free=
+[Fri Apr 24 21:00:06 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/browse.php
+[Fri Apr 24 21:18:31 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=11&courseId=10&free=
+[Fri Apr 24 22:03:30 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=11&courseId=10&free=
+[Fri Apr 24 22:04:04 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/videos/htmlFundamentals/courseOverview.mp4, referer: http://localhost/courseOverview.php?courseId=17
+[Fri Apr 24 22:09:50 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 22:09:53 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Fri Apr 24 22:09:54 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=2&courseId=1&free=1
+[Fri Apr 24 22:09:55 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=3&courseId=1&free=1
+[Fri Apr 24 22:09:56 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=5&courseId=1&free=1
+[Fri Apr 24 22:09:57 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=8&courseId=1&free=1
+[Fri Apr 24 23:44:47 2020] [error] [client ::1] script 'C:/xampp/htdocs/scripts/checkout.php' not found or unable to stat, referer: http://localhost/shoppingCart.php
+[Fri Apr 24 23:46:05 2020] [error] [client ::1] script 'C:/xampp/htdocs/scripts/checkout.php' not found or unable to stat, referer: http://localhost/shoppingCart.php
+[Sat Apr 25 00:03:14 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Sat Apr 25 00:03:41 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=117&courseId=7&free=
+[Sat Apr 25 00:15:46 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=9&courseId=3&free=
+[Sat Apr 25 00:16:12 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=103&courseId=4&free=
+[Sat Apr 25 00:21:26 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=103&courseId=4&free=
+[Sat Apr 25 00:21:53 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=51&courseId=15&free=
+[Sat Apr 25 00:24:26 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=11&courseId=10&free=
+[Sat Apr 25 00:24:41 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=12&courseId=10&free=
+[Sat Apr 25 00:28:07 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/browse.php
+[Sat Apr 25 16:08:08 2020] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 25 16:08:08 2020] [notice] Digest: generating secret for digest authentication ...
+[Sat Apr 25 16:08:08 2020] [notice] Digest: done
+[Sat Apr 25 16:08:14 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Apr 25 16:08:14 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Apr 25 16:08:14 2020] [notice] Parent: Created child process 11196
+[Sat Apr 25 16:08:14 2020] [notice] Digest: generating secret for digest authentication ...
+[Sat Apr 25 16:08:14 2020] [notice] Digest: done
+[Sat Apr 25 16:08:15 2020] [notice] Child 11196: Child process is running
+[Sat Apr 25 16:08:15 2020] [notice] Child 11196: Acquired the start mutex.
+[Sat Apr 25 16:08:15 2020] [notice] Child 11196: Starting 150 worker threads.
+[Sat Apr 25 16:08:15 2020] [notice] Child 11196: Starting thread to listen on port 443.
+[Sat Apr 25 16:08:15 2020] [notice] Child 11196: Starting thread to listen on port 443.
+[Sat Apr 25 16:08:15 2020] [notice] Child 11196: Starting thread to listen on port 80.
+[Sat Apr 25 16:08:15 2020] [notice] Child 11196: Starting thread to listen on port 80.
+[Sat Apr 25 16:08:15 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/browse.php
+[Sat Apr 25 16:17:49 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Thu May 14 12:03:28 2020] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 14 12:03:28 2020] [notice] Digest: generating secret for digest authentication ...
+[Thu May 14 12:03:28 2020] [notice] Digest: done
+[Thu May 14 12:03:36 2020] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Thu May 14 12:03:36 2020] [notice] Server built: Sep 10 2011 11:34:11
+[Thu May 14 12:03:36 2020] [notice] Parent: Created child process 13132
+[Thu May 14 12:03:37 2020] [notice] Digest: generating secret for digest authentication ...
+[Thu May 14 12:03:37 2020] [notice] Digest: done
+[Thu May 14 12:03:37 2020] [notice] Child 13132: Child process is running
+[Thu May 14 12:03:37 2020] [notice] Child 13132: Acquired the start mutex.
+[Thu May 14 12:03:37 2020] [notice] Child 13132: Starting 150 worker threads.
+[Thu May 14 12:03:37 2020] [notice] Child 13132: Starting thread to listen on port 443.
+[Thu May 14 12:03:37 2020] [notice] Child 13132: Starting thread to listen on port 443.
+[Thu May 14 12:03:37 2020] [notice] Child 13132: Starting thread to listen on port 80.
+[Thu May 14 12:03:37 2020] [notice] Child 13132: Starting thread to listen on port 80.
+[Thu May 14 12:03:38 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/
+[Thu May 14 12:04:58 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=1&courseId=1&free=1
+[Thu May 14 12:44:15 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=117&courseId=7&free=
+[Thu May 14 12:46:08 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/lesson.php?videoId=117&courseId=7&free=
+[Thu May 14 12:47:25 2020] [error] [client ::1] File does not exist: C:/xampp/htdocs/favicon.ico, referer: http://localhost/

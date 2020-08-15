@@ -1,0 +1,53 @@
+article {
+    text-align: left;
+}
+
+section {
+    display: flex;
+}
+
+article div {
+    padding: 10px 10px 10px 0;
+}
+
+h1 {
+    margin: 0 0 20px 0;
+}
+
+h2 {
+    margin: 0 0 20px 0;
+}
+
+#video-description {
+    width: 75%;
+}
+
+#description {
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+#watch-next {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+
+#watch-next a {
+    text-decoration: none;
+    color: black;
+}
+
+iframe {
+    width: 100%;
+    margin: 0;
+}
+
+#video {
+    padding: 10px 0;
+}
+#notPurchased {
+    text-align: center;
+}

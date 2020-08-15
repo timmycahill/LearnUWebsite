@@ -1,0 +1,25 @@
+.topics {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+}
+
+.topics a {
+    text-decoration: none;
+    color: black;
+    width: 20%;
+    padding: 5px;
+}
+
+.topic {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.topic img {
+    width: 80%;
+}
+
+article a {
+    margin 10px;
+}
